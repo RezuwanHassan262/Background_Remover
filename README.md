@@ -11,3 +11,6 @@ short_description: Remove any background from images
 ---
 
 Check out live at [HuggingFace Spaces](https://huggingface.co/spaces/Rezuwan/Image_Background_Remove)
+
+
+[Live Demo Screenshot](images/HS_SS.PNG)
