@@ -10,4 +10,4 @@ pinned: false
 short_description: Remove any background from images
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out live at [HuggingFace Spaces](https://huggingface.co/spaces/Rezuwan/Image_Background_Remove)
